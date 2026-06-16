@@ -66,8 +66,7 @@ Para validar formalmente o conhecimento prático adquirido, estou trilhando o se
 
 Se você quer conversar sobre automação, cultura DevOps, infraestrutura em nuvem ou oportunidades de colaboração, sinta-se à vontade para entrar em contato!
 
-- **LinkedIn:** [www.linkedin.com/in/wellington-vinicius-jiudev](www.linkedin.com/in/wellington-vinicius-jiudev)
-
+- **LinkedIn:** <a href="https://www.linkedin.com/in/wellington-vinicius-jiudev" target="_blank">www.linkedin.com/in/wellington-vinicius-jiudev</a>
 
 ---
 *README estruturado dinamicamente para documentar minha jornada técnica em Engenharia de Infraestrutura e DevOps.*
