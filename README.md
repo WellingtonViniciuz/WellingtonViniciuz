@@ -65,7 +65,7 @@ Para validar formalmente o conhecimento prático adquirido, estou trilhando o se
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WellingtonViniciuz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Wellington" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WellingtonViniciuz&show_icons=true&theme=transparent" alt="Estatísticas do GitHub de Wellington" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonViniciuz&layout=compact&theme=transparent" alt="Linguagens mais usadas" height="180em" />
 </p>
 
